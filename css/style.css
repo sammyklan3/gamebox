@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+#s1{
+    color: red;
+}
+
+.logo{
+    text-decoration: overline;
+}
+
+img{
+    object-fit: contain;
+}
+
+#carousel{
+    height: 300px;
+}
+
+#carousel img{
+    height: 300px;
+    object-fit: cover;
+}
+
+.img_card{
+    height: 300px;
+}
+.dark-mode {
+    background-color: rgb(4, 8, 36);
+    color: rgb(99, 95, 95);
+    transition: 1s all ease-in-out;
+  }
+
+  footer{
+    text-align: center;
+    background-color: rgb(160, 157, 157);
+    margin-bottom: 0;
+}
+
+.icon{
+    padding-left: 13px;
+    font-size: 18px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.mail{
+    text-decoration: none;
+    color: inherit;
+    transition: 0.8s all ease-in-out;
+}
+
+.mail:hover{
+    color: rgb(97, 95, 93);
+}

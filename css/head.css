@@ -1,0 +1,38 @@
+#s1{
+    color: red;
+}
+
+.logo{
+    text-decoration: overline;
+}
+
+img{
+    object-fit: contain;
+}
+
+.img_card{
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(160, 157, 157);
+    margin-bottom: 0;
+}
+
+.icon{
+    padding-left: 13px;
+    font-size: 18px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.mail{
+    text-decoration: none;
+    color: inherit;
+    transition: 0.8s all ease-in-out;
+}
+
+.mail:hover{
+    color: rgb(97, 95, 93);
+}
